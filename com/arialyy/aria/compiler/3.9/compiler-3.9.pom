@@ -25,9 +25,9 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>Aria</groupId>
-      <artifactId>AriaAnnotations</artifactId>
-      <version>unspecified</version>
+      <groupId>com.arialyy.aria</groupId>
+      <artifactId>annotations</artifactId>
+      <version>3.9</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
